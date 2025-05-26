@@ -1,12 +1,9 @@
 source 'https://rubygems.org'
 
-# Nur diese Zeile behalten:
-gem 'jekyll', '~> 4.3'
+gem 'jekyll'
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
-    # gem "jekyll", "~> 4.3" ← Diese bitte entfernen
-    #gem 'wdm', '>= 0.1.0'
     gem 'jekyll-archives-v2'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
@@ -24,7 +21,8 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'classifier-reborn'
+
+    gem 'classifier-reborn'  # used for content categorization during the build
 end
 
 # Gems for development or external data fetching (outside :jekyll_plugins)
