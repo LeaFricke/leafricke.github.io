@@ -35,10 +35,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-calendar-grey-question-on-22nd-july-2025-i-will-give-a-talk-at-the-xv-ivg-kongress-2025-in-the-section-fragen-in-der-krise-zur-syntax-semantik-und-pragmatik-von-fragen-im-deutschen",
-          title: ':calendar: :grey_question: On 22nd July 2025, I will give a talk at the...',
-          description: "",
-          section: "News",},{id: "news-calendar-smiley-patrick-g-grosz-tatjana-scheffler-and-i-are-hosting-the-emoji-workshop-at-the-university-of-oslo-on-29th-august-2025",
+            },},{id: "news-calendar-smiley-patrick-g-grosz-tatjana-scheffler-and-i-are-hosting-the-emoji-workshop-at-the-university-of-oslo-on-29th-august-2025",
           title: ':calendar: :smiley: Patrick G. Grosz, Tatjana Scheffler and I are hosting The Emoji...',
           description: "",
           section: "News",},{id: "projects-project-1",
