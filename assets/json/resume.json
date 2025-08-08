@@ -24,13 +24,32 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Germanistisches Institut, Ruhr-Universität Bochum",
+      "position": "Research assistant in the ViCom project 'Semantics and pragmatics of emojis in digital communication",
+      "startDate": "11/2022",
+      "endDate": "present",
+      "summary": "Principal investigators: Patrick G. Grosz, Tatjana Scheffler <br> (Parental leave from 02/2024 until 03/2025)"
+    },
+   {
+      "name": "Institut für Germanistik, Karl-Franzens-Universität Graz",
+      "position": "University assistant",
+      "startDate": "06/2021",
+      "endDate": "10/2022",
+      "summary": "Research group of Edgar Onea"
+    },
+    {
+      "name": "Institut für Germanistik, Karl-Franzens-Universität Graz",
+      "position": "Research assistant in the XPrag.de project 'Exhaustiveness in embedded questions across languages'",
+      "startDate": "09/2017",
+      "endDate": "05/2021",
+      "summary": "Principal investigators: Edgar Onea, Malte Zimmermann"
+    },
+  {
+      "name": "Courant Forschungszentrum Textstrukturen, Georg-August-Universität Göttingen",
+      "position": "Research assistant in the XPrag.de project 'Exhaustiveness in embedded questions across languages'",
+      "startDate": "07/2017",
+      "endDate": "08/2017",
+      "summary": "Principal investigators: Edgar Onea, Malte Zimmermann"
     }
   ],
   "volunteer": [
@@ -47,15 +66,22 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Karl-Franzens-Universität Graz",
+      "area": "German Studies",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "date": "01/2024"
+    },
+   {
+      "institution": "Georg-August-Universität Göttingen",
+      "area": "Linguistics, English Studies, German Studies",
+      "studyType": "Master of Arts",
+      "date": "06/2017"
+    },
+  {
+      "institution": "Georg-August-Universität Göttingen",
+      "area": "English Studies, German Studies",
+      "studyType": "Master of Education",
+      "date": "06/2017"
     }
   ],
   "awards": [
