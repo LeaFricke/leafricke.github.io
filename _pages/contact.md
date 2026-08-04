@@ -11,7 +11,7 @@ You can reach me at:
 <table style="border: none; border-collapse: collapse; width: auto;">
   <tr>
     <td style="padding: 2px 10px 2px 0; font-weight: bold; color: #8f2d56; vertical-align: top;">Email</td>
-    <td style="padding: 2px 0;">firstname.lastname@uni-kassel.de.de</td>
+    <td style="padding: 2px 0;">firstname.lastname@uni-kassel.de</td>
   </tr>
   <tr>
     <td style="padding: 2px 10px 2px 0; font-weight: bold; color: #8f2d56; vertical-align: top;">Address</td>
