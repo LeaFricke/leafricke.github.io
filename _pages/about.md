@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   #more_info: >
     #<p>555 your office number</p>
     #<p>123 your address street</p>
@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am postdoctoral researcher in Tatjana Scheffler's lab for [Digitale Forensische Linguistik](https://staff.germanistik.rub.de/digitale-forensische-linguistik/) at the German department of the Ruhr-Universität Bochum. I work in the project [Semantics and Pragmatics of Emojis in Digital Communication](https://vicom.info/projects/semantics-and-pragmatics-of-emojis-in-digital-communication/), which is part of the priority program [ViCom](https://vicom.info/). In this project, we experimentally investigate the explanatory power of iconic and symbolic approaches to emoji semantics.
+I am a linguist at the [Department of English and American Studies](https://www.uni-kassel.de/fb02/institute/anglistik-amerikanistik/startseite.html) at the University of Kassel in the [research group of Holden Härtl](https://www.uni-kassel.de/fb02/institute/anglistik-amerikanistik/fachgebiete/anglistische-sprachwissenschaft/startseite.html). My research interests lie in the area of semantics, pragmatics and empirical linguistics.
+
+Before my current position, I was a postdoctoral researcher in Tatjana Scheffler's lab for [Digitale Forensische Linguistik](https://staff.germanistik.rub.de/digitale-forensische-linguistik/) at the German department of the Ruhr-Universität Bochum. I worked in the project [Semantics and Pragmatics of Emojis in Digital Communication](https://vicom.info/projects/semantics-and-pragmatics-of-emojis-in-digital-communication/), which is part of the priority program [ViCom](https://vicom.info/). In this project, we experimentally investigated the explanatory power of iconic and symbolic approaches to emoji semantics.
 
 I completed my PhD at the Karl-Franzens-Universität Graz as part of the [XPrag.de](https://www.xprag.de/) project [Exhaustiveness in embedded questions across languages](https://www.xprag.de/?page_id=4791) under supervison of [Edgar Onea](https://homepage.uni-graz.at/de/edgar.onea-gaspar/). In my dissertation, I studied on the one hand, the exhaustivity of embedded questions. On the other hand, I investigated the distribution of German *wh*-words in embedded questions under different embedding verbs and compared *who*- and *which*-questions with respect to their D-linking properties.
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-11-26 15:59:00-0400
+date: 2026-07-17 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-:tv: EmDiCom in the YouTube format ["DGfS macht Schule"](https://www.youtube.com/watch?v=bqaf7VirSn8)
+:book: New paper on question semantics with Edgar Onea and Malte Zimmermann in [Linguistics and Philosophy](https://link.springer.com/article/10.1007/s10988-026-09464-0)
